@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 The school is open! 
+=======
+‘#! /bin/bash’
+echoThe schoool is open! 
+>>>>>>> update_script
